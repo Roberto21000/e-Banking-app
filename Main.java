@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         if(args == null) {
-            System.out.println("Running Main");
+            System.out.println("Running");
             return;
         }
         String testName = args[2];
